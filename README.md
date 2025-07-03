@@ -23,7 +23,7 @@ ___
 ![translating docx file](/img/4.jpeg)
 ### Figure 4. docx file after text translation
 
-### You can see that, after translating the text, the user received .a docx file with the original formatting preserved (paragraph, table), but it has little bugs in API translation.
+### You can see that, after translating the text, the user received a .docx file with the original formatting preserved (paragraph, table), but it has little bugs in API translation.
 ### This text in docx file took approximately 2-3 minutes. However, if text will be longer it will take longer.
 ___
 
