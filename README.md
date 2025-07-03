@@ -35,6 +35,7 @@ ___
 ### `docker-compose up`
 
 ### 2. main.py:
+### `pip install -r requirements.txt`
 ### `uvicorn main:app --reload`
 
 ### Swagger url: `http://localhost:8000/docs`
