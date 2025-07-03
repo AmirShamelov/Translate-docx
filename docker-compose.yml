@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  translate-api:
+    build: .
+    container_name: translate-docx-service
+    ports:
+      - "8000:8000"
+    restart: always
